@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Mayur Choudhary"
 title_separator          : "-"
 name                     : &name "Mayur Choudhary"
@@ -14,12 +14,15 @@ description              : &description "Ph.D. candidate in Finance"
 url                      : https://mlchoudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mlchoudhary/mlchoudhary.github.io"
-teaser                   : "Mayur Lalchand Choudhary.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "air"
+log                      : "images/LBS_logo.jpg"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -96,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mlchoudhary"
   google_plus      :
   keybase          :
   instagram        :
