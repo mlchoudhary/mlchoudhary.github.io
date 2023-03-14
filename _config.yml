@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Mayur Choudhary"
 title_separator          : "-"
 name                     : &name "Mayur Choudhary"
@@ -20,9 +20,7 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "air"
-logo                     : "assets/images/LBS_logo.jpg"
+theme                    : minima
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
