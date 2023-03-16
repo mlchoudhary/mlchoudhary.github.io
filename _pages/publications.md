@@ -20,6 +20,15 @@ Politicians’ influence depends on their relationships with other powerful poli
 Bank stress tests can be an effective information disclosure policy in persuading stakeholders to avoid *attacking* a bank, thereby decreasing the probability of bank failure during distress. This paper studies stress test design along two dimensions: strength and frequency, assuming stakeholders are privately informed and move sequentially. We characterize all robustly persuasive stress tests that ensure all bank stakeholders disregard private information and coordinate actions perfectly based on test results (*pass* or *fail*). Our findings indicate that more frequent stress tests can substitute for increased test strength in making the stress test result robustly persuasive. We then identify the optimal stress test policy and investigate how the optimal frequency and strength depend on macroeconomic conditions, bank idiosyncratic characteristics, and endogenous maturity choices of banks. Finally, we discuss how other regulatory measures may complement the stress test policy.
 
 --- 
+ 
+
+## Works in Progress 
+--- 
+### *Lobbying and Voter Information 
+
+[comment]: <> (### *Learning about Productivity) 
+[comment]: <>(* with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)) 
+
 
 
 {% if author.googlescholar %}
