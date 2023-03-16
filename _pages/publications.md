@@ -24,7 +24,7 @@ Bank stress tests can be an effective information disclosure policy in persuadin
 
 ## Works in Progress 
 --- 
-### *Lobbying and Voter Information 
+### *Lobbying and Voter Information* 
 
 [comment]: <> (### *Learning about Productivity) 
 [comment]: <>(* with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)) 
