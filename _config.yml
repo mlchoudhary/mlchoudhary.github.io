@@ -51,11 +51,11 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : # google-site-verification=_x_nSOad13yrcwMbEMwwOCBpyLwW_UW7KMx0hfjwiiE
+google_site_verification : _x_nSOad13yrcwMbEMwwOCBpyLwW_UW7KMx0hfjwiiE
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-enable_google_verification: 
+enable_google_verification: false 
 
 # Social Sharing [comment this]
 twitter:
