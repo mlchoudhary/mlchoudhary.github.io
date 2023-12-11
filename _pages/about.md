@@ -10,10 +10,10 @@ redirect_from:
 
 
 
-I am a fourth-year Ph.D. student in Finance at London Business School. 
+I am a fifth-year Ph.D. student in Finance at London Business School. 
 
 
 
-My research interests include Political Economy, Regulations, and Financial Intermediation. 
+My research interests include Political Economy, Regulations, Contract Theory and Financial Intermediation. 
 
 
