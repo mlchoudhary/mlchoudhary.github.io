@@ -36,6 +36,8 @@ This paper studies how the stress test design (in particular its strength and fr
 
 We study competitive search equilibrium in markets where matches between workers and firms are an experience good and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If the firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
 
+![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq.png) 
+
 --- 
 
 ## Works in Progress 
