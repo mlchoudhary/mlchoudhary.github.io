@@ -40,8 +40,9 @@ We examine contracts in performance-centric professions, such as entrepreneurshi
 
 ## Works in Progress 
 --- 
-### *Lobbying and Voter Information* 
-### *Dynamic Moral Hazard* 
+### *Dynamic Moral Hazard with Competitive Search* with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
+### *Social Media and Bank Runs* with [Rhiannon Sowerbutts](https://www.bankofengland.co.uk/research/researchers/rhiannon-sowerbutts) 
+ 
 
 [comment]: <> (### *Learning about Productivity) 
 [comment]: <>(* with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)) 
