@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a fifth-year Ph.D. student in Finance at London Business School. 
+I am a sixth-year Ph.D. student in Finance at London Business School. 
 
 
 
