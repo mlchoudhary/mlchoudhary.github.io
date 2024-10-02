@@ -17,8 +17,7 @@ This paper studies the real effects of campaign finance and judicial selection. 
  
 Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is robust to other measures of influence such as their legislative productivity. 
 
-![Centrality vs. Funding](/assets/images/fig2.png){:width="700"}
-
+![Centrality vs. Funding](/assets/images/fig2.png){:width="1000"}
 
 
 --- 
@@ -28,7 +27,7 @@ Politicians’ influence depends on their relationships with other powerful poli
 
 This paper studies how the stress test design (in particular its strength and frequency) affects its effectiveness in providing information to persuade the bank’s stakeholders to coordinate on not “attacking” the bank to decrease the probability of bank failure during distress. The stakeholders are privately informed and move sequentially. We characterize all robustly persuasive stress tests, under which, even in the worst equilibrium, all bank stakeholders disregard their private information and perfectly coordinate their actions based on the test results (“pass” or “fail”). We show that testing the bank more frequently can substitute the role of an increased test strength in making the stress test result persuasive. We then characterize the optimal frequency and investigate how it depends on macroeconomic conditions, the bank’s idiosyncratic characteristics, as well as the endogenous maturity choices of banks. We further examine how other regulatory measures may complement the stress test policy.
 
-![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="700"}
+![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="1000"}
 
 --- 
  
@@ -37,7 +36,7 @@ This paper studies how the stress test design (in particular its strength and fr
 
 We study competitive search equilibrium in markets where matches between workers and firms are an experience good and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If the firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
 
-![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq.png){:width="700"} 
+![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq.png){:width="1000"} 
 
 --- 
 
