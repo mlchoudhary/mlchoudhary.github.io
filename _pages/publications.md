@@ -12,7 +12,7 @@ author_profile: true
  
 This paper studies the real effects of campaign finance and judicial selection. Using the Supreme Court's surprise verdict in the Citizens United v. FEC case in 2010, I document that relaxing campaign finance restrictions led to a 61% increase in the average electoral expenditure of judicial candidates. Competition in judicial elections increased while the judicial bench became more business-friendly. Concomitantly, labor productivity increased by 8%, but only in states with judicial elections. This increase is driven by industries that are more reliant on the quality of legal institutions. Overall, I provide the first evidence that campaign finance deregulation in judicial elections increases electoral competition and scrutiny and improves factor allocation. 
 
-**Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024
+**Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (scheduled) 
 
 ---
 ### [*Political Finance and Party Preferences*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385015) 
@@ -39,7 +39,7 @@ This paper studies how the stress test design (in particular its strength and fr
 ### [*Experimentation and Learning under Competitive Search*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859787) 
 * with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
 
-We study competitive search equilibrium in markets where matches between workers and firms are an experience good and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If the firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
+We study competitive search equilibrium in markets where matches between workers and firms are an experience good, and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
 
 **Presented at:** Econometric Society European Meetings 2024, LBS Economics Internal Seminar 
 
@@ -51,6 +51,7 @@ We study competitive search equilibrium in markets where matches between workers
 ## Works in Progress 
 --- 
 ### *Dynamic Moral Hazard with Competitive Search* with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
+### *Value of Political Finance Disclosure* with [Lakshmi Naaraayanan](https://www.lakshmin.com/) and [Sampreet Singh Goraya](https://sites.google.com/view/econsampreet)
 ### *Social Media and Bank Runs* with [Rhiannon Sowerbutts](https://www.bankofengland.co.uk/research/researchers/rhiannon-sowerbutts) 
  
 

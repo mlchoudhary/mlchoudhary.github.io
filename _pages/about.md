@@ -14,6 +14,4 @@ I am a sixth-year Ph.D. student in Finance at London Business School.
 
 
 
-My research interests include Political Economy, Regulations, Contract Theory and Financial Intermediation. 
-
-
+My research interests include Political Economy, Law and Economics, Regulations, Contract Theory, and Banking. 
