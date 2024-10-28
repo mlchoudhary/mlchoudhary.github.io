@@ -44,7 +44,7 @@ We study competitive search equilibrium in markets where matches between workers
 **Presented at:** Econometric Society European Meetings 2024, LBS Economics Internal Seminar 
 
 
-![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq.png){:width="900"} 
+![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} 
 
 --- 
 
