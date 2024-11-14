@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 ---
-### *Real Effects of Judge Selection: The Role of Campaign Finance* (Draft available soon) 
+### [*Real Effects of Judge Selection: The Role of Campaign Finance*] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928533) 
  
 This paper studies the real effects of campaign finance and judicial selection. Using the Supreme Court's surprise verdict in the Citizens United v. FEC case in 2010, I document that relaxing campaign finance restrictions led to a 61% increase in the average electoral expenditure of judicial candidates. Competition in judicial elections increased along with greater turnover of the judicial bench. Concomitantly, labor productivity increased by 6.6%, but only in states with judicial elections. This increase is driven by industries that are more reliant on the quality of legal institutions. Overall, I provide the first evidence that campaign finance deregulation in judicial elections increases electoral competition and scrutiny and improves factor allocation. 
 
