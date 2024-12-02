@@ -15,11 +15,15 @@ This paper studies the real effects of campaign finance and judicial selection. 
 **Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (scheduled) 
 
 ---
-### [*Political Finance and Party Preferences*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385015) 
- 
-Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is robust to other measures of influence such as their legislative productivity. 
+### [*Experimentation and Learning under Competitive Search*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859787) 
+* with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
 
-![Centrality vs. Funding](/assets/images/fig2.png){:width="900"}
+We study competitive search equilibrium in markets where matches between workers and firms are an experience good, and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
+
+**Presented at:** Econometric Society European Meetings 2024, LBS Economics Internal Seminar 
+
+
+![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} 
 
 
 --- 
@@ -35,17 +39,13 @@ This paper studies how the stress test design (in particular its strength and fr
 
 
 --- 
+
+### [*Political Finance and Party Preferences*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385015) 
  
-### [*Experimentation and Learning under Competitive Search*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859787) 
-* with [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
+Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is robust to other measures of influence such as their legislative productivity. 
 
-We study competitive search equilibrium in markets where matches between workers and firms are an experience good, and there is uncertainty about match productivity. Parties learn about the underlying match productivity through on-the-job experimentation. If firms can offer fully flexible wages, the competitive search equilibrium is efficient. However, under fixed-wage contracts, experimentation may be sub-optimal, resulting in fewer vacancies compared to the efficient benchmark. Conditions under which inefficiency occurs depend on whether the firms can commit to contract duration. Without commitment, there is generically too little experimentation. Minimum wages and non-common priors lead to inefficiency even under flexible wages.
-
-**Presented at:** Econometric Society European Meetings 2024, LBS Economics Internal Seminar 
-
-
-![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} 
-
+![Centrality vs. Funding](/assets/images/fig2.png){:width="900"}
+ 
 --- 
 
 ## Works in Progress 
