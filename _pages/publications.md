@@ -28,7 +28,7 @@ We study competitive search equilibrium in markets where matches between workers
 
 --- 
 
-### [*Stress Tests: Strength v. Frequency*](/files/BST.pdf)
+### [*Frequent Stress Tests*](/files/BST.pdf)
 * with [Deepal Basak](https://sites.google.com/a/nyu.edu/dbasak/home) and [Zhen Zhou](https://www.zhenzhoueconomics.com/)
 
 This paper studies how the stress test design (in particular its strength and frequency) affects its effectiveness in providing information to persuade the bank’s stakeholders to coordinate on not “attacking” the bank to decrease the probability of bank failure during distress. The stakeholders are privately informed and move sequentially. We characterize all robustly persuasive stress tests, under which, even in the worst equilibrium, all bank stakeholders disregard their private information and perfectly coordinate their actions based on the test results (“pass” or “fail”). We show that testing the bank more frequently can substitute the role of an increased test strength in making the stress test result persuasive. We then characterize the optimal frequency and investigate how it depends on macroeconomic conditions, the bank’s idiosyncratic characteristics, as well as the endogenous maturity choices of banks. We further examine how other regulatory measures may complement the stress test policy.
