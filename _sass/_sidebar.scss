@@ -218,6 +218,12 @@
 
   li {
     white-space: nowrap;
+
+    /* let long entries (e.g. employer) wrap inside the sidebar column */
+    @include breakpoint($large) {
+      white-space: normal;
+      overflow-wrap: break-word;
+    }
   }
 
   a {
