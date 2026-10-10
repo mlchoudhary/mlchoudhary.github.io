@@ -18,7 +18,7 @@ This paper studies the real effects of campaign finance and judicial selection. 
 
 ---
 ### *Consumer Value of Privacy: Evidence from an Online Retailer*
-* with Mimansa Bairathi and Ankit Sisodia
+* with [Mimansa Bairathi](https://mimansabairathi.github.io) and [Ankit Sisodia](https://sisodia-a.github.io/)
 
 We study whether and how much consumers value personal information using data from a large online fashion retailer's tiered loyalty program. Consumers are offered loyalty points in exchange for voluntarily disclosing specific types of personal information such as date of birth, mobile phone number, and payment card details. While the number of points awarded for disclosure is fixed, the effective value of these points varies quasi-experimentally with a consumer's distance to the tier-upgrade threshold. Exploiting this variation, we examine the effect of incentives on disclosure behavior and recover bounds on value of personal information. We find that consumers value personal information. Likelihood of disclosure increases with incentives, and valuations differ across data types. Consumers value contact and financial information such as mobile number (<span class="tex2jax_ignore">$0.99</span>) and payment card details (<span class="tex2jax_ignore">$1.02</span>) significantly more than demographic information such as date of birth (<span class="tex2jax_ignore">$0.20</span>). We further show that consumers who are more engaged with the platform, measured through prior spending and participation in platform activities, place a higher value on their personal information. Together, the results demonstrate that privacy valuations are heterogeneous across information types and depend on consumer experience with firms.
 
@@ -32,6 +32,13 @@ We study competitive search equilibrium in markets where matches between workers
 
 
 <!-- ![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} -->
+
+--- 
+
+### *Screening and Transparency in Competitive Search* (draft coming soon)
+* with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
+
+We study a competitive search market in which workers differ in their cost of search and effort within a match is hidden. A worker whose project fails returns to the search pool, so the bonus needed to induce effort depends on how costly it is for her to search again. When search costs are private information, a contract designed for a worker with high search cost can tempt a worker with low search cost, who can take the contract, defect, and return to search cheaply. In the resulting separating equilibrium, the contract of the high search cost worker is distorted to keep the low search cost worker out, so the distortion falls on the type that is already worse off. Pooling equilibria in which low search cost workers defect can also be sustained. We then compare an opaque market with a transparent one in which a worker's initial contract choice is observable. Transparency does not help the market discipline the low search cost worker: the cost of deterring her falls on the high search cost worker.
 
 --- 
 
@@ -56,7 +63,6 @@ Politicians’ influence depends on their relationships with other powerful poli
 
 ## Works in Progress 
 --- 
-### *Dynamic Moral Hazard with Competitive Search* with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
 ### *Social Media and Bank Runs* with [Rhiannon Sowerbutts](https://www.bankofengland.co.uk/research/researchers/rhiannon-sowerbutts) 
  
 

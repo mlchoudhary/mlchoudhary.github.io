@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Mayur Choudhary"
 title_separator          : "-"
 name                     : &name "Mayur Choudhary"
-description              : &description "Ph.D. candidate in Finance"
+description              : &description "Assistant Professor of Finance"
 url                      : "https://mlchoudhary.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mlchoudhary/mlchoudhary.github.io"
@@ -83,13 +83,13 @@ analytics:
 # Site Author
 author:
   name             : "Mayur Choudhary"
-  avatar           : "Mayur Lalchand Choudhary.jpg"
-  bio              : "Ph.D. candidate in Finance"
-  location         : "London"
-  employer         :
+  avatar           : "MayurChoudhary.jpg"
+  bio              : "Assistant Professor of Finance"
+  location         : "Bloomington, IN"
+  employer         : "Kelley School of Business, Indiana University"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mchoudhary@london.edu"
+  email            : "mchoudh@iu.edu"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
