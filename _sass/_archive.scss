@@ -243,3 +243,8 @@
     }
   }
 }
+
+/* justify body text (e.g. abstracts) on archive-layout pages such as Research */
+.archive > p {
+  text-align: justify;
+}
