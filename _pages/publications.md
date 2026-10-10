@@ -10,9 +10,17 @@ author_profile: true
 ---
 ### [*Real Effects of Judicial Selection: The Role of Campaign Finance*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928533) 
  
-This paper studies the real effects of campaign finance and judicial selection. Using the Supreme Court's surprise verdict in the Citizens United v. FEC case in 2010, I document that relaxing campaign finance restrictions led to a 61% increase in the average electoral expenditure of judicial candidates. Competition in judicial elections increased along with greater turnover of the judicial bench. Concomitantly, labor productivity increased by 6.6%, but only in states with judicial elections. This increase is driven by industries that are more reliant on the quality of legal institutions. Overall, I provide the first evidence that campaign finance deregulation in judicial elections increases electoral competition and scrutiny and improves factor allocation. 
+**The Brattle Group Ph.D. Candidate Awards For Outstanding Research (WFA 2025)**
 
-**Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (cancelled), WFA 2025, FMA 2025 (scheduled) 
+This paper studies the real effects of campaign finance and judicial selection. Using the Supreme Court's surprise verdict in the Citizens United v. FEC case in 2010, I document that relaxing campaign finance restrictions led to a 61% increase in the average electoral expenditure of judicial candidates. Competition in judicial elections increased along with greater turnover of the judicial bench. Concomitantly, labor productivity increased by 5.8%, but only in states with judicial elections. This increase is driven by industries that are more reliant on the quality of legal institutions. Overall, I provide the first evidence that campaign finance deregulation in judicial elections increases electoral competition and improves factor allocation through a benign legal environment for firms. 
+
+**Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (cancelled), WFA 2025, FMA 2025 
+
+---
+### *Consumer Value of Privacy: Evidence from an Online Retailer*
+* with Mimansa Bairathi and Ankit Sisodia
+
+We study whether and how much consumers value personal information using data from a large online fashion retailer's tiered loyalty program. Consumers are offered loyalty points in exchange for voluntarily disclosing specific types of personal information such as date of birth, mobile phone number, and payment card details. While the number of points awarded for disclosure is fixed, the effective value of these points varies quasi-experimentally with a consumer's distance to the tier-upgrade threshold. Exploiting this variation, we examine the effect of incentives on disclosure behavior and recover bounds on value of personal information. We find that consumers value personal information. Likelihood of disclosure increases with incentives, and valuations differ across data types. Consumers value contact and financial information such as mobile number (<span class="tex2jax_ignore">$0.99</span>) and payment card details (<span class="tex2jax_ignore">$1.02</span>) significantly more than demographic information such as date of birth (<span class="tex2jax_ignore">$0.20</span>). We further show that consumers who are more engaged with the platform, measured through prior spending and participation in platform activities, place a higher value on their personal information. Together, the results demonstrate that privacy valuations are heterogeneous across information types and depend on consumer experience with firms.
 
 ---
 ### [*Experimentation and Learning under Competitive Search*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859787) 
@@ -23,8 +31,7 @@ We study competitive search equilibrium in markets where matches between workers
 **Presented at:** Econometric Society European Meetings 2024, LBS Economics Internal Seminar, SAET 2025 (By co-author)  
 
 
-![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} 
-
+<!-- ![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} -->
 
 --- 
 
@@ -35,23 +42,21 @@ This paper studies how the stress test design (in particular its strength and fr
 
 **Presented at:** 7th Bristol Workshop on Banking and Financial Intermediation, Bank of England Financial Stability Seminar 
 
-![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="900"}
-
+<!-- ![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="900"} -->
 
 --- 
 
 ### [*Political Finance and Party Preferences*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385015) 
  
-Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is robust to other measures of influence such as their legislative productivity. 
+Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is also reflected in other measures of influence, such as their legislative productivity. 
 
-![Centrality vs. Funding](/assets/images/fig2.png){:width="900"}
- 
+<!-- ![Centrality vs. Funding](/assets/images/fig2.png){:width="900"} -->
+
 --- 
 
 ## Works in Progress 
 --- 
 ### *Dynamic Moral Hazard with Competitive Search* with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
-### *Value of Political Finance Disclosure* with [Lakshmi Naaraayanan](https://www.lakshmin.com/) and [Sampreet Singh Goraya](https://sites.google.com/view/econsampreet)
 ### *Social Media and Bank Runs* with [Rhiannon Sowerbutts](https://www.bankofengland.co.uk/research/researchers/rhiannon-sowerbutts) 
  
 
