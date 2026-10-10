@@ -60,6 +60,7 @@ Politicians’ influence depends on their relationships with other powerful poli
 
 ## Works in Progress 
 --- 
+### *Value of Political Finance Disclosure* with [Lakshmi Naaraayanan](https://www.lakshmin.com/) and [Sampreet Singh Goraya](https://sites.google.com/view/econsampreet)
 ### *Social Media and Bank Runs* with [Rhiannon Sowerbutts](https://www.bankofengland.co.uk/research/researchers/rhiannon-sowerbutts) 
  
 
