@@ -17,10 +17,14 @@ This paper studies the real effects of campaign finance and judicial selection. 
 **Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (cancelled), WFA 2025, FMA 2025 
 
 ---
-### [*Consumer Value of Privacy: Evidence from an Online Retailer*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960)
-* with [Mimansa Bairathi](https://mimansabairathi.github.io) and [Ankit Sisodia](https://sisodia-a.github.io/)
+### [*Frequent Stress Tests*](/files/BST.pdf)
+* with [Deepal Basak](https://sites.google.com/a/nyu.edu/dbasak/home) and [Zhen Zhou](https://www.zhenzhoueconomics.com/)
 
-We study whether and how much consumers value personal information using data from a large online fashion retailer's tiered loyalty program. Consumers are offered loyalty points in exchange for voluntarily disclosing specific types of personal information such as date of birth, mobile phone number, and payment card details. While the number of points awarded for disclosure is fixed, the effective value of these points varies quasi-experimentally with a consumer's distance to the tier-upgrade threshold. Exploiting this variation, we examine the effect of incentives on disclosure behavior and recover bounds on value of personal information. We find that consumers value personal information. Likelihood of disclosure increases with incentives, and valuations differ across data types. Consumers value contact and financial information such as mobile number (<span class="tex2jax_ignore">$0.99</span>) and payment card details (<span class="tex2jax_ignore">$1.02</span>) significantly more than demographic information such as date of birth (<span class="tex2jax_ignore">$0.20</span>). We further show that consumers who are more engaged with the platform, measured through prior spending and participation in platform activities, place a higher value on their personal information. Together, the results demonstrate that privacy valuations are heterogeneous across information types and depend on consumer experience with firms.
+This paper studies how the stress test design (in particular its strength and frequency) affects its effectiveness in providing information to persuade the bank’s stakeholders to coordinate on not “attacking” the bank to decrease the probability of bank failure during distress. The stakeholders are privately informed and move sequentially. We characterize all robustly persuasive stress tests, under which, even in the worst equilibrium, all bank stakeholders disregard their private information and perfectly coordinate their actions based on the test results (“pass” or “fail”). We show that testing the bank more frequently can substitute the role of an increased test strength in making the stress test result persuasive. We then characterize the optimal frequency and investigate how it depends on macroeconomic conditions, the bank’s idiosyncratic characteristics, as well as the endogenous maturity choices of banks. We further examine how other regulatory measures may complement the stress test policy.
+
+**Presented at:** 7th Bristol Workshop on Banking and Financial Intermediation, Bank of England Financial Stability Seminar 
+
+<!-- ![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="900"} -->
 
 ---
 ### [*Experimentation and Learning under Competitive Search*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4859787) 
@@ -33,33 +37,26 @@ We study competitive search equilibrium in markets where matches between workers
 
 <!-- ![Experimentation and Learning under Competitive Search](/assets/images/eucs_eq2.png){:width="900"} -->
 
---- 
+---
+### [*Consumer Value of Privacy: Evidence from an Online Retailer*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7219960)
+* with [Mimansa Bairathi](https://mimansabairathi.github.io) and [Ankit Sisodia](https://sisodia-a.github.io/)
 
+We study whether and how much consumers value personal information using data from a large online fashion retailer's tiered loyalty program. Consumers are offered loyalty points in exchange for voluntarily disclosing specific types of personal information such as date of birth, mobile phone number, and payment card details. While the number of points awarded for disclosure is fixed, the effective value of these points varies quasi-experimentally with a consumer's distance to the tier-upgrade threshold. Exploiting this variation, we examine the effect of incentives on disclosure behavior and recover bounds on value of personal information. We find that consumers value personal information. Likelihood of disclosure increases with incentives, and valuations differ across data types. Consumers value contact and financial information such as mobile number (<span class="tex2jax_ignore">$0.99</span>) and payment card details (<span class="tex2jax_ignore">$1.02</span>) significantly more than demographic information such as date of birth (<span class="tex2jax_ignore">$0.20</span>). We further show that consumers who are more engaged with the platform, measured through prior spending and participation in platform activities, place a higher value on their personal information. Together, the results demonstrate that privacy valuations are heterogeneous across information types and depend on consumer experience with firms.
+
+---
 ### *Screening and Transparency in Competitive Search* (draft coming soon)
 * with [Doruk Cetemen](https://sites.google.com/site/dorukcetemen/) and [Emre Ozdenoren](https://sites.google.com/site/ozdenoren/home)
 
 We study a competitive search market in which workers differ in their cost of search and effort within a match is hidden. A worker whose project fails returns to the search pool, so the bonus needed to induce effort depends on how costly it is for her to search again. When search costs are private information, a contract designed for a worker with high search cost can tempt a worker with low search cost, who can take the contract, defect, and return to search cheaply. In the resulting separating equilibrium, the contract of the high search cost worker is distorted to keep the low search cost worker out, so the distortion falls on the type that is already worse off. Pooling equilibria in which low search cost workers defect can also be sustained. We then compare an opaque market with a transparent one in which a worker's initial contract choice is observable. Transparency does not help the market discipline the low search cost worker: the cost of deterring her falls on the high search cost worker.
 
---- 
-
-### [*Frequent Stress Tests*](/files/BST.pdf)
-* with [Deepal Basak](https://sites.google.com/a/nyu.edu/dbasak/home) and [Zhen Zhou](https://www.zhenzhoueconomics.com/)
-
-This paper studies how the stress test design (in particular its strength and frequency) affects its effectiveness in providing information to persuade the bank’s stakeholders to coordinate on not “attacking” the bank to decrease the probability of bank failure during distress. The stakeholders are privately informed and move sequentially. We characterize all robustly persuasive stress tests, under which, even in the worst equilibrium, all bank stakeholders disregard their private information and perfectly coordinate their actions based on the test results (“pass” or “fail”). We show that testing the bank more frequently can substitute the role of an increased test strength in making the stress test result persuasive. We then characterize the optimal frequency and investigate how it depends on macroeconomic conditions, the bank’s idiosyncratic characteristics, as well as the endogenous maturity choices of banks. We further examine how other regulatory measures may complement the stress test policy.
-
-**Presented at:** 7th Bristol Workshop on Banking and Financial Intermediation, Bank of England Financial Stability Seminar 
-
-<!-- ![Stress Tests: Strength vs. Frequency](/assets/images/k_j_plot_tau_9_v5.png){:width="900"} -->
-
---- 
-
+---
 ### [*Political Finance and Party Preferences*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4385015) 
  
 Politicians’ influence depends on their relationships with other powerful politicians. In a network of elected representatives based on their committee assignments, I use network centrality as a measure of such influence. I use plausibly exogenous variation in funding to show that well-funded politicians tend to be more central. I also estimate the political parties' preferences over politicians' attributes and document that the parties place candidates with higher funding in more central positions than candidates with a stronger legislative record. This bias in favour of well-funded representatives is also reflected in other measures of influence, such as their legislative productivity. 
 
 <!-- ![Centrality vs. Funding](/assets/images/fig2.png){:width="900"} -->
 
---- 
+---
 
 ## Works in Progress 
 --- 
