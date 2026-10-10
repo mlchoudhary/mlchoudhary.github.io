@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* justify body text on single pages such as the homepage */
+.page__content > p {
+  text-align: justify;
+}
