@@ -8,11 +8,13 @@ author_profile: true
 ## Working Papers
 
 ---
-### [*Real Effects of Judicial Selection: The Role of Campaign Finance*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4928533) 
+### [*Real Effects of Judicial Selection: The Role of Campaign Finance*](/files/JMP_Choudhary.pdf) 
  
+**Job Market Paper** (November 2026)
+
 **The Brattle Group Ph.D. Candidate Awards For Outstanding Research (WFA 2025)**
 
-This paper studies the real effects of campaign finance and judicial selection. Using the Supreme Court's surprise verdict in the Citizens United v. FEC case in 2010, I document that relaxing campaign finance restrictions led to a 61% increase in the average electoral expenditure of judicial candidates. Competition in judicial elections increased along with greater turnover of the judicial bench. Concomitantly, labor productivity increased by 5.8%, but only in states with judicial elections. This increase is driven by industries that are more reliant on the quality of legal institutions. Overall, I provide the first evidence that campaign finance deregulation in judicial elections increases electoral competition and improves factor allocation through a benign legal environment for firms. 
+This paper studies how removing campaign finance restrictions affects the courts and the legal environment for firms, workers, and consumers. Using the Supreme Court's surprise ruling in Citizens United v. FEC in 2010, I document that removing restrictions on independent expenditures led to a 75% increase in the direct contributions received by judicial candidates, alongside higher independent expenditures. This rise in campaign money is associated with greater competition in judicial elections and a 29 percentage point lower share of uncontested seats. Classifying civil cases that have a business as a litigant, I find that justices who face a contested election vote for business interests 4.6 percentage points more often than colleagues on the same case. Consistent with a legal environment that turns toward business, medical malpractice payments fall by nearly 33%, and establishment entry rises by 2.2% relative to neighboring counties across state borders. Overall, I provide evidence that removing constraints on election spending affects how courts enforce the law, with real effects on liability costs and establishment entry. 
 
 **Presented at:** CICF 2024, ISB Summer Research Conference 2024, 8th HEC PARIS Finance PhD Workshop, Nottingham Interdisciplinary Centre for Economic and Political Research 2024, EEA Congress 2024, EFMA 2024, SFA 2024 (withdrawn), AFA 2024 Poster Session (cancelled), WFA 2025, FMA 2025 
 
